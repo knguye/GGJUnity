@@ -7,20 +7,25 @@ public class Orb : MonoBehaviour
     public int powerUpEffect;
     public Sprite[] sprites;
 
-    private void Start() {
+    private void Start() 
+    {
         // Set the appearance to fit the powerUp Effect
-        setAppearance();
+        SetAppearance();
     }
 
-    void setAppearance(){
-        GetComponent<SpriteRenderer>().sprite = sprites[powerUpEffect];
+    void SetAppearance()
+    {
+        GetComponent<SpriteRenderer>().sprite = sprites[(powerUpEffect == -1) ? 3 : powerUpEffect];
     }
 
-    void onTriggerEnter(Collider col){
-        // If collider is player tag
-        if (col.gameObject.name == "Player"){
-            col.gameObject.GetComponent<Player>().changeAbilities(powerUpEffect); // Give the player this ability
-            Destroy(this); // Delete the orb
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        Player player = other.gameObject.GetComponent<Player>();
+        if (player != null)
+        {
+            powerUpEffect = (int) player.SwapAbility((int) powerUpEffect);
+            Debug.Log(powerUpEffect);
+            SetAppearance();
         }
     }
 }
