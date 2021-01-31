@@ -2,25 +2,48 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[CreateAssetMenu(menuName = "ScriptableObjects/OrbData")]
+public class OrbData : ScriptableObject
+{
+    public Sprite[] orbSprites;
+}
+
 public class Orb : MonoBehaviour
 {
-    public int powerUpEffect;
-    public Sprite[] sprites;
+    [Header("General")]
+    public OrbData data;
 
-    private void Start() {
-        // Set the appearance to fit the powerUp Effect
-        setAppearance();
+    [Header("Mechanics")]
+    public Ability initialAbility = Ability.NULL;
+    Ability mCrrtAbility;
+    public Ability crrtAbility
+    {
+        get 
+        { 
+            return mCrrtAbility; 
+        }
+        set
+        {
+            mCrrtAbility = value;
+            spriteRenderer.sprite = data.orbSprites[(int)mCrrtAbility];
+            Debug.Log(value);
+        }
     }
 
-    void setAppearance(){
-        GetComponent<SpriteRenderer>().sprite = sprites[powerUpEffect];
+    [Header("Components")]
+    public SpriteRenderer spriteRenderer;
+
+    private void Start() 
+    {
+        crrtAbility = initialAbility;
     }
 
-    void onTriggerEnter(Collider col){
-        // If collider is player tag
-        if (col.gameObject.name == "Player"){
-            col.gameObject.GetComponent<Player>().changeAbilities(powerUpEffect); // Give the player this ability
-            Destroy(this); // Delete the orb
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        Player player = other.gameObject.GetComponent<Player>();
+        if (player != null)
+        {
+            crrtAbility = player.SwapAbility(crrtAbility);
         }
     }
 }
