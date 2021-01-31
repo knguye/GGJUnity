@@ -12,22 +12,37 @@ public class Player : MonoBehaviour
     [Header("Components")]
     public Rigidbody2D rb;
     public InputManager input;
+    public Animator animator;
+    public SpriteRenderer spriteRenderer;
 
     void Update()
     {
         // Check grounded
         Vector2 crrtVelocity = rb.velocity;
+        animator.SetBool("Falling", crrtVelocity.y < 0f);
         mIsGrounded = crrtVelocity.y == 0;
 
         // Kinematics
         // Horizontal
         Vector2 newVelocity = crrtVelocity;
         newVelocity.x = input.horizontal * movementSpeed;
+        animator.SetBool("Running", newVelocity.x != 0f);
+        if (newVelocity.x != 0f)
+        {
+            spriteRenderer.flipX = newVelocity.x < 0f;
+        }
         // Vertical
         if (mIsGrounded && input.jump)
         {
-            newVelocity += Vector2.up * jumpSpeed;
+            animator.SetTrigger("Jumping");
         }
+        rb.velocity = newVelocity;
+    }
+
+    public void Jump()
+    {
+        Vector2 newVelocity = rb.velocity;
+        newVelocity += Vector2.up * jumpSpeed;
         rb.velocity = newVelocity;
     }
 

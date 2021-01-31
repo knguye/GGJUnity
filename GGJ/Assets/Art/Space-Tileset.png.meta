@@ -38,6 +38,192 @@ TextureImporter:
   - first:
       213: -7070295160344771325
     second: Space-Tileset_11
+  - first:
+      213: 5015113395062273529
+    second: Space-Tileset_0
+  - first:
+      213: 7344536175471138832
+    second: Space-Tileset_1
+  - first:
+      213: 883588341350127409
+    second: Space-Tileset_2
+  - first:
+      213: 73773250781508974
+    second: Space-Tileset_3
+  - first:
+      213: 8613295964395795904
+    second: Space-Tileset_4
+  - first:
+      213: 4674901194627431404
+    second: Space-Tileset_5
+  - first:
+      213: -567381636166091660
+    second: Space-Tileset_6
+  - first:
+      213: -9074306482627028811
+    second: Space-Tileset_7
+  - first:
+      213: -5421038258175561004
+    second: Space-Tileset_8
+  - first:
+      213: 2270796568087812377
+    second: Space-Tileset_9
+  - first:
+      213: -2355969387564937900
+    second: Space-Tileset_12
+  - first:
+      213: 8407778751725617588
+    second: Space-Tileset_13
+  - first:
+      213: 5068997339091685265
+    second: Space-Tileset_14
+  - first:
+      213: -381542872275207027
+    second: Space-Tileset_15
+  - first:
+      213: -890440733747462354
+    second: Space-Tileset_16
+  - first:
+      213: 6723825383507509729
+    second: Space-Tileset_17
+  - first:
+      213: 75171283893198484
+    second: Space-Tileset_18
+  - first:
+      213: -2847730583010910982
+    second: Space-Tileset_19
+  - first:
+      213: 4624704581502382036
+    second: Space-Tileset_20
+  - first:
+      213: -2244051297946373884
+    second: Space-Tileset_21
+  - first:
+      213: 8288910707552945168
+    second: Space-Tileset_22
+  - first:
+      213: 548939026214465680
+    second: Space-Tileset_23
+  - first:
+      213: -8666591161342335251
+    second: Space-Tileset_24
+  - first:
+      213: -4191966780249488434
+    second: Space-Tileset_25
+  - first:
+      213: -8969562735692396353
+    second: Space-Tileset_26
+  - first:
+      213: -5408760841635798485
+    second: Space-Tileset_27
+  - first:
+      213: -8248021257415079421
+    second: Space-Tileset_28
+  - first:
+      213: -6696577926978578956
+    second: Space-Tileset_29
+  - first:
+      213: 1158092968185816549
+    second: Space-Tileset_30
+  - first:
+      213: 4228721427519969144
+    second: Space-Tileset_31
+  - first:
+      213: -6060155338500941014
+    second: Space-Tileset_32
+  - first:
+      213: 4592153444413752304
+    second: Space-Tileset_33
+  - first:
+      213: 3133406562839298421
+    second: Space-Tileset_34
+  - first:
+      213: 3540618656140189255
+    second: Space-Tileset_35
+  - first:
+      213: -3602626878299249585
+    second: Space-Tileset_36
+  - first:
+      213: 1711672196240627853
+    second: Space-Tileset_37
+  - first:
+      213: 1140901910319100117
+    second: Space-Tileset_38
+  - first:
+      213: -3416676206129029819
+    second: Space-Tileset_39
+  - first:
+      213: -7950546963075560864
+    second: Space-Tileset_40
+  - first:
+      213: 2073814744635696878
+    second: Space-Tileset_41
+  - first:
+      213: 7309044093102587316
+    second: Space-Tileset_42
+  - first:
+      213: -2481261598755082476
+    second: Space-Tileset_43
+  - first:
+      213: 6995783631888285363
+    second: Space-Tileset_44
+  - first:
+      213: -7095190497006383650
+    second: Space-Tileset_45
+  - first:
+      213: 2187451959326219971
+    second: Space-Tileset_46
+  - first:
+      213: -8496829111033998417
+    second: Space-Tileset_47
+  - first:
+      213: -8461279438652525288
+    second: Space-Tileset_48
+  - first:
+      213: 433608746423917457
+    second: Space-Tileset_49
+  - first:
+      213: 3230132079948202305
+    second: Space-Tileset_50
+  - first:
+      213: -4115102713899800459
+    second: Space-Tileset_51
+  - first:
+      213: -5928957064916926316
+    second: Space-Tileset_52
+  - first:
+      213: -2460116894562938816
+    second: Space-Tileset_53
+  - first:
+      213: 4776643291539345195
+    second: Space-Tileset_54
+  - first:
+      213: 4404829510555006700
+    second: Space-Tileset_55
+  - first:
+      213: -6975466663878690668
+    second: Space-Tileset_56
+  - first:
+      213: 9010458429842864824
+    second: Space-Tileset_57
+  - first:
+      213: -483339527568693835
+    second: Space-Tileset_58
+  - first:
+      213: -8520864750085247265
+    second: Space-Tileset_59
+  - first:
+      213: 6842129587576617625
+    second: Space-Tileset_60
+  - first:
+      213: 5038487493370671156
+    second: Space-Tileset_61
+  - first:
+      213: -1475862160771834841
+    second: Space-Tileset_62
+  - first:
+      213: 7038154167865233421
+    second: Space-Tileset_63
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -59,7 +245,6 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -94,7 +279,6 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -102,7 +286,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -114,7 +298,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -176,8 +360,8 @@ TextureImporter:
       name: Space-Tileset_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 110
+        x: 0
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -187,8 +371,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb71d6a878d4f6310800000000000000
-      internalID: 1400423253673842623
+      spriteID: 9f57df4cf03499540800000000000000
+      internalID: 5015113395062273529
       vertices: []
       indices: 
       edges: []
@@ -197,8 +381,8 @@ TextureImporter:
       name: Space-Tileset_1
       rect:
         serializedVersion: 2
-        x: 36
-        y: 110
+        x: 32
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -208,8 +392,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 097685060a1a85b30800000000000000
-      internalID: 4276345556371531664
+      spriteID: 01896f21db80de560800000000000000
+      internalID: 7344536175471138832
       vertices: []
       indices: 
       edges: []
@@ -218,8 +402,8 @@ TextureImporter:
       name: Space-Tileset_2
       rect:
         serializedVersion: 2
-        x: 70
-        y: 110
+        x: 64
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -229,18 +413,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a80e72ea86c982790800000000000000
-      internalID: -7554616401501626230
+      spriteID: 137d9dd3ae2234c00800000000000000
+      internalID: 883588341350127409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: box
+      name: Space-Tileset_3
       rect:
         serializedVersion: 2
-        x: 106
-        y: 110
+        x: 96
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -250,8 +434,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77dfe427cad410470800000000000000
-      internalID: 8359047786423844215
+      spriteID: e65f1c67168160100800000000000000
+      internalID: 73773250781508974
       vertices: []
       indices: 
       edges: []
@@ -260,8 +444,8 @@ TextureImporter:
       name: Space-Tileset_4
       rect:
         serializedVersion: 2
-        x: 2
-        y: 76
+        x: 128
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -271,8 +455,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45d8aecde271658f0800000000000000
-      internalID: -552228414264013484
+      spriteID: 0c5fd1f5b03988770800000000000000
+      internalID: 8613295964395795904
       vertices: []
       indices: 
       edges: []
@@ -281,8 +465,8 @@ TextureImporter:
       name: Space-Tileset_5
       rect:
         serializedVersion: 2
-        x: 36
-        y: 76
+        x: 160
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -292,8 +476,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb32678e0f0344910800000000000000
-      internalID: 1820633960614863804
+      spriteID: ceb31d92ed590e040800000000000000
+      internalID: 4674901194627431404
       vertices: []
       indices: 
       edges: []
@@ -302,8 +486,8 @@ TextureImporter:
       name: Space-Tileset_6
       rect:
         serializedVersion: 2
-        x: 70
-        y: 76
+        x: 192
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -313,8 +497,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 984bf4bccbc429c70800000000000000
-      internalID: 8976321381051380873
+      spriteID: 47c7d3478614028f0800000000000000
+      internalID: -567381636166091660
       vertices: []
       indices: 
       edges: []
@@ -323,8 +507,8 @@ TextureImporter:
       name: Space-Tileset_7
       rect:
         serializedVersion: 2
-        x: 2
-        y: 42
+        x: 224
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -334,8 +518,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba9a7b2a1e0c26310800000000000000
-      internalID: 1396890909768395179
+      spriteID: 5b8ddffe456911280800000000000000
+      internalID: -9074306482627028811
       vertices: []
       indices: 
       edges: []
@@ -344,8 +528,8 @@ TextureImporter:
       name: Space-Tileset_8
       rect:
         serializedVersion: 2
-        x: 36
-        y: 42
+        x: 0
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -355,8 +539,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a71d03815271fde0800000000000000
-      internalID: -1301133122916771933
+      spriteID: 4d2b4a31d6a94c4b0800000000000000
+      internalID: -5421038258175561004
       vertices: []
       indices: 
       edges: []
@@ -365,8 +549,8 @@ TextureImporter:
       name: Space-Tileset_9
       rect:
         serializedVersion: 2
-        x: 70
-        y: 42
+        x: 32
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -376,8 +560,1142 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e1e9986cca6a9170800000000000000
-      internalID: 8185972698860085730
+      spriteID: 919dc0e827d738f10800000000000000
+      internalID: 2270796568087812377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e82e848145929e0800000000000000
+      internalID: -1645691725548450253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3058c7ef20441ed90800000000000000
+      internalID: -7070295160344771325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d4f70135aed4fd0800000000000000
+      internalID: -2355969387564937900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1cea67a3e6ea470800000000000000
+      internalID: 8407778751725617588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fc5f32932b85640800000000000000
+      internalID: 5068997339091685265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c347777cc74baf0800000000000000
+      internalID: -381542872275207027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fb173ded484a3f0800000000000000
+      internalID: -890440733747462354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e148bbdf83df4d50800000000000000
+      internalID: 6723825383507509729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e93c962ef0b0100800000000000000
+      internalID: 75171283893198484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc5e976f14da78d0800000000000000
+      internalID: -2847730583010910982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df229b60504e2040800000000000000
+      internalID: 4624704581502382036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f628eb378bd0e0800000000000000
+      internalID: -2244051297946373884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01400aa3f50280370800000000000000
+      internalID: 8288910707552945168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090bcdcc2293e9700800000000000000
+      internalID: 548939026214465680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de666ae91451ab780800000000000000
+      internalID: -8666591161342335251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3cdf06c6423d5c0800000000000000
+      internalID: -4191966780249488434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb84974f636b58380800000000000000
+      internalID: -8969562735692396353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22614fdba830f4b0800000000000000
+      internalID: -5408760841635798485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a47e3cd54298d80800000000000000
+      internalID: -8248021257415079421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f558bbfad9f013a0800000000000000
+      internalID: -6696577926978578956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5e7913b6f521010800000000000000
+      internalID: 1158092968185816549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877196dcbbf6faa30800000000000000
+      internalID: 4228721427519969144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bd6f4e3d006eba0800000000000000
+      internalID: -6060155338500941014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f34e583a3b9abf30800000000000000
+      internalID: 4592153444413752304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5710aeadaa81c7b20800000000000000
+      internalID: 3133406562839298421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e5b54a8edc22130800000000000000
+      internalID: 3540618656140189255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44e2b411f5e00ec0800000000000000
+      internalID: -3602626878299249585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88d5dc2bc411c710800000000000000
+      internalID: 1711672196240627853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d072202e3c45df00800000000000000
+      internalID: 1140901910319100117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d5625c7178590d0800000000000000
+      internalID: -3416676206129029819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a02df29abf9a190800000000000000
+      internalID: -7950546963075560864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee66affc58ba7cc10800000000000000
+      internalID: 2073814744635696878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdfb01b0e0fe6560800000000000000
+      internalID: 7309044093102587316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fa263e8b9c09dd0800000000000000
+      internalID: -2481261598755082476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be7130e524061160800000000000000
+      internalID: 6995783631888285363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd053cb5d1d88d90800000000000000
+      internalID: -7095190497006383650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce1fd6a7f36b5e10800000000000000
+      internalID: 2187451959326219971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3de9f01f2351a80800000000000000
+      internalID: -8496829111033998417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815bcc92e2f739a80800000000000000
+      internalID: -8461279438652525288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b99168bdc740600800000000000000
+      internalID: 433608746423917457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14108e2430cb3dc20800000000000000
+      internalID: 3230132079948202305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578a1cb62e734e6c0800000000000000
+      internalID: -4115102713899800459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490851166fc18bda0800000000000000
+      internalID: -5928957064916926316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04093a9f7b8ebddd0800000000000000
+      internalID: -2460116894562938816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f84f214cb0a4240800000000000000
+      internalID: 4776643291539345195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6f9c02a19112d30800000000000000
+      internalID: 4404829510555006700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4987eecd60a223f90800000000000000
+      internalID: -6975466663878690668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba3536d3349b0d70800000000000000
+      internalID: 9010458429842864824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5ec51b245da49f0800000000000000
+      internalID: -483339527568693835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde6500c7aecfb980800000000000000
+      internalID: -8520864750085247265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ab1b6db9024fe50800000000000000
+      internalID: 6842129587576617625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4307b9f1ead4ce540800000000000000
+      internalID: 5038487493370671156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c11c92f2fa48be0800000000000000
+      internalID: -1475862160771834841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space-Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00da0a0deb8ca160800000000000000
+      internalID: 7038154167865233421
       vertices: []
       indices: 
       edges: []

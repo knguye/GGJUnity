@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Tilemap_1
+  m_Name: Space-Tileset_8
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 4564998844612868550, guid: c8a04519637e1d14693ef7ec0f8f721c,
+  m_Sprite: {fileID: -1301133122916771933, guid: 9350dc7940ec6404192a9d92569aff8b,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
@@ -34,4 +34,4 @@ MonoBehaviour:
     e33: 1
   m_InstancedGameObject: {fileID: 0}
   m_Flags: 1
-  m_ColliderType: 0
+  m_ColliderType: 1
