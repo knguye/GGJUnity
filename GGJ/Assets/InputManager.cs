@@ -7,6 +7,7 @@ public enum Ability
     Left,
     Jump,
     Right,
+    NULL,
     COUNT
 }
 
@@ -14,7 +15,7 @@ public class InputManager : MonoBehaviour
 {
     bool[] mActiveAbilities;
     bool[] mAvailableAbilities;
-    Ability mLastAbilityUsed;
+    Ability mLastAbilityUsed = Ability.NULL;
 
     public float horizontal { get { return (GetAbility(Ability.Left) ? -1f : 0f) + (GetAbility(Ability.Right) ? 1f : 0f); } }
     public bool jump { get { return GetAbility(Ability.Jump); } }
@@ -53,12 +54,14 @@ public class InputManager : MonoBehaviour
 
     public Ability ConsumeLastAbility()
     {
-        mAvailableAbilities[(int)mLastAbilityUsed] = false;
-        return mLastAbilityUsed;
+        Ability toReturn = mLastAbilityUsed;
+        mAvailableAbilities[(int) mLastAbilityUsed] = false;
+        mLastAbilityUsed = Ability.NULL;
+        return toReturn;
     }
 
     public void EnableAbility(Ability ability)
     {
-        mAvailableAbilities[(int)ability] = true;
+        mAvailableAbilities[(int) ability] = true;
     }
 }

@@ -13,27 +13,6 @@ public class Player : MonoBehaviour
     public Rigidbody2D rb;
     public InputManager input;
 
-    // Ability/Orb related
-
-    public bool[] activeAbilities; // An array of 3 booleans
-    /*
-        True if enabled
-        0 - Left
-        1 - Right
-        2 - Up
-    */
-
-    public int lastAbilityHeld;
-
-    public GameObject orb; // to instantiate
-
-
-    void Start()
-    {
-
-    }
-
-
     void Update()
     {
         // Check grounded
@@ -52,13 +31,9 @@ public class Player : MonoBehaviour
         rb.velocity = newVelocity;
     }
 
-    public Ability SwapAbility(int ability) 
+    public Ability SwapAbility(Ability ability)
     {
-        Ability swapedAbility = input.ConsumeLastAbility();
-        if (ability != -1)
-        {
-            input.EnableAbility((Ability) ability);
-        }
-        return swapedAbility;
+        input.EnableAbility(ability);
+        return input.ConsumeLastAbility();
     }
 }

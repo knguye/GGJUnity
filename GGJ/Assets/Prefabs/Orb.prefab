@@ -96,12 +96,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89adf87879b68f64cb6afedf48d45aea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  powerUpEffect: -1
-  sprites:
-  - {fileID: -6437762468991309600, guid: 01dc9f79fd5d9e8409ffdfae3b3b9734, type: 3}
-  - {fileID: 3795919089558573437, guid: 01dc9f79fd5d9e8409ffdfae3b3b9734, type: 3}
-  - {fileID: -1145424673818375133, guid: 01dc9f79fd5d9e8409ffdfae3b3b9734, type: 3}
-  - {fileID: -7708920532220806285, guid: c8a04519637e1d14693ef7ec0f8f721c, type: 3}
+  data: {fileID: 11400000, guid: 62ae6f09b459e2a4498becf3047d0499, type: 2}
+  initialAbility: 3
+  spriteRenderer: {fileID: 242719596776638188}
 --- !u!58 &9087899838432166065
 CircleCollider2D:
   m_ObjectHideFlags: 0
